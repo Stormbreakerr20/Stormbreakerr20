@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Views](https://komarev.com/ghpvc/?username=Stormbreakerr20)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stormbreakerr20&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbreakerr20&layout=compact)
+
+<!-- Add any other images or badges you want to showcase here -->
+
