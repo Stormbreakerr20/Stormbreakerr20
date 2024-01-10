@@ -1,22 +1,22 @@
-### Hi there 👋
+<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Luv Sharma </h1>
+<br />
 
-<!--
-**Stormbreakerr20/Stormbreakerr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Second year Computer Science Undergrad
+- Interested in DSA, ML, WebDev and Opensource 
+- You can contact me via Email: luvsharma.del@gmail.com@gmail.com
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<hr />
+
+<br />
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvniMittal13&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvniMittal13&layout=compact&theme=tokyonight)
+
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=Stormbreakerr20)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stormbreakerr20&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbreakerr20&layout=compact)
-
-<!-- Add any other images or badges you want to showcase here -->
-
+<div align = "center" style="display: flex; flex-direction: row;">
+ <img class="img" style = "padding:2rem" src="https://github-readme-stats.vercel.app/api?username=Stormbreakerr20&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stormbreakerr20&layout=compact&theme=tokyonight" />
+</div>
